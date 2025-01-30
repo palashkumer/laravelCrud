@@ -2,7 +2,7 @@
 This is a basic Laravel CRUD (Create, Read, Update, Delete) application for managing products. Users can add, edit, delete, and view products with images.
 
 ## Features:
-- [✅ Add new products (name, SKU, price, image)]
+- ✅ Add new products (name, SKU, price, image)
 ✅ View all products in a table
 ✅ Edit product details
 ✅ Delete products with confirmation
