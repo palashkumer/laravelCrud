@@ -12,4 +12,7 @@ This is a basic Laravel CRUD (Create, Read, Update, Delete) application for mana
 - ✅ Blade 
 - ✅ Bootstrap 
 - ✅ MySQL 
-- ✅ JavaScript 
+- ✅ JavaScript
+
+## 📸 Screenshot
+![CRUD App Screenshot](public/Screenshots/Screenshot_1.png)
