@@ -1,11 +1,25 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+## Simple Laravel CRUD App
+This is a basic Laravel CRUD (Create, Read, Update, Delete) application for managing products. Users can add, edit, delete, and view products with images.
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Features:
+✅ Add new products (name, SKU, price, image)
+✅ View all products in a table
+✅ Edit product details
+✅ Delete products with confirmation
+✅ Upload and display images
+
+## Technologies Used:
+✅ Laravel (Backend)
+✅ Blade (Frontend)
+✅ Bootstrap (Styling)
+✅ MySQL (Database)
+✅ JavaScript (Delete confirmation)
+
+## How It Works:
+✅ Click "Create" to add a new product.
+✅ View all products in a list.
+✅ Click "Edit" to update details.
+✅ Click "Delete" to remove a product.
 
 ## About Laravel
 
