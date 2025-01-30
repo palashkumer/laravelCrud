@@ -15,4 +15,12 @@ This is a basic Laravel CRUD (Create, Read, Update, Delete) application for mana
 - ✅ JavaScript
 
 ## 📸 Screenshot
+Here is some moments of the project.
 ![CRUD App Screenshot](public/Screenshots/Screenshot_1.png)
+
+![CRUD App Screenshot](public/Screenshots/Screenshot_2.png)
+
+![CRUD App Screenshot](public/Screenshots/Screenshot_3.png)
+
+![CRUD App Screenshot](public/Screenshots/Screenshot_4.png)
+
